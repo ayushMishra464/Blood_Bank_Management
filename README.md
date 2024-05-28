@@ -1,6 +1,6 @@
 
 ```markdown
-# Blood Bank Management System
+## Blood Bank Management System
 
 This project is a Blood Bank Management System implemented in C++. It allows users to manage donor records, track blood inventories, and perform various operations such as adding new donors, searching for existing donors, modifying donor information, and deleting donor records.
 
