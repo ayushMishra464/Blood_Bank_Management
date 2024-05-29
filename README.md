@@ -67,6 +67,4 @@ After a successful login, you can choose from various options:
 - `login_page2.txt`: Contains usernames and passwords for logging into the system.
 
 ## Acknowledgements
-
-- ASCII art generator for creating the title.
 - C++ standard library for various functionalities.
